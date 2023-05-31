@@ -1,0 +1,50 @@
+Categoría,Latitud,Longitud,ID Departamento,Departamento,ID Localidad Censal,Localidad Censal,ID Municipio,Municipio,Nombre,ID Provincia,Provincia
+Localidad simple,-35.0330734347841,-60.2806197287099,6021,Alberti,6021010,Alberti,60021,Alberti,ALBERTI,6,Buenos Aires
+Localidad simple,-34.8681189984321,-60.3939708823404,6021,Alberti,6021020,Coronel Seguí,60021,Alberti,CORONEL SEGUI,6,Buenos Aires
+Componente de localidad compuesta,-35.068013673391,-60.4025971632697,6021,Alberti,6021030,Mechita,60021,Alberti,MECHITA,6,Buenos Aires
+Localidad simple,-35.1243819752343,-60.2200612615259,6021,Alberti,6021040,Pla,60021,Alberti,PLA,6,Buenos Aires
+Localidad simple,-35.1096178332808,-60.070551324606,6021,Alberti,6021050,Villa Grisolía,60021,Alberti,VILLA GRISOLIA,6,Buenos Aires
+Localidad simple,-34.8881255447686,-60.3469385614883,6021,Alberti,6021060,Villa María,60021,Alberti,VILLA MARIA,6,Buenos Aires
+Localidad simple,-34.8435329449862,-60.3048498633642,6021,Alberti,6021070,Villa Ortiz,60021,Alberti,VILLA ORTIZ,6,Buenos Aires
+Entidad,-34.8015580737331,-58.3914677191541,6028,Almirante Brown,6028010,Almirante Brown,60028,Almirante Brown,ADROGUE,6,Buenos Aires
+Entidad,-34.8315415891783,-58.3986874871405,6028,Almirante Brown,6028010,Almirante Brown,60028,Almirante Brown,BURZACO,6,Buenos Aires
+Entidad,-34.8044759080477,-58.3447825531042,6028,Almirante Brown,6028010,Almirante Brown,60028,Almirante Brown,CLAYPOLE,6,Buenos Aires
+Entidad,-34.8210751643113,-58.3447457989957,6028,Almirante Brown,6028010,Almirante Brown,60028,Almirante Brown,DON ORIONE,6,Buenos Aires
+Entidad,-34.8860114180413,-58.3818301842512,6028,Almirante Brown,6028010,Almirante Brown,60028,Almirante Brown,GLEW,6,Buenos Aires
+Entidad,-34.7851442510713,-58.3681475603787,6028,Almirante Brown,6028010,Almirante Brown,60028,Almirante Brown,JOSE MARMOL,6,Buenos Aires
+Entidad,-34.8609450255718,-58.3891476922426,6028,Almirante Brown,6028010,Almirante Brown,60028,Almirante Brown,LONGCHAMPS,6,Buenos Aires
+Entidad,-34.8189583169642,-58.4235610606239,6028,Almirante Brown,6028010,Almirante Brown,60028,Almirante Brown,MALVINAS ARGENTINAS,6,Buenos Aires
+Entidad,-34.8556895005541,-58.361646542791,6028,Almirante Brown,6028010,Almirante Brown,60028,Almirante Brown,MINISTRO RIVADAVIA,6,Buenos Aires
+Entidad,-34.7911367513318,-58.350598184222,6028,Almirante Brown,6028010,Almirante Brown,60028,Almirante Brown,RAFAEL CALZADA,6,Buenos Aires
+Entidad,-34.7866743578473,-58.3219363521574,6028,Almirante Brown,6028010,Almirante Brown,60028,Almirante Brown,SAN FRANCISCO SOLANO,6,Buenos Aires
+Entidad,-34.7673771924196,-58.3432771404358,6028,Almirante Brown,6028010,Almirante Brown,60028,Almirante Brown,SAN JOSE,6,Buenos Aires
+Entidad,-34.6750056478488,-58.3105634248142,6035,Avellaneda,6035010,Avellaneda,60035,Avellaneda,AREA CINTURON ECOLOGICO,6,Buenos Aires
+Entidad,-34.6626508059016,-58.3656990232718,6035,Avellaneda,6035010,Avellaneda,60035,Avellaneda,AVELLANEDA,6,Buenos Aires
+Entidad,-34.66910587351,-58.3574544412345,6035,Avellaneda,6035010,Avellaneda,60035,Avellaneda,CRUCESITA,6,Buenos Aires
+Entidad,-34.6491266928534,-58.3411774769136,6035,Avellaneda,6035010,Avellaneda,60035,Avellaneda,DOCK SUD,6,Buenos Aires
+Entidad,-34.6847637540553,-58.3726025503412,6035,Avellaneda,6035010,Avellaneda,60035,Avellaneda,GERLI,6,Buenos Aires
+Entidad,-34.6685497926645,-58.3886029123689,6035,Avellaneda,6035010,Avellaneda,60035,Avellaneda,PIÑEYRO,6,Buenos Aires
+Entidad,-34.6843716640855,-58.348101313379,6035,Avellaneda,6035010,Avellaneda,60035,Avellaneda,SARANDI,6,Buenos Aires
+Entidad,-34.6986315148924,-58.3363602646664,6035,Avellaneda,6035010,Avellaneda,60035,Avellaneda,VILLA DOMINICO,6,Buenos Aires
+Entidad,-34.7061588356333,-58.3218349208501,6035,Avellaneda,6035010,Avellaneda,60035,Avellaneda,WILDE,6,Buenos Aires
+Localidad simple,-37.1536695670417,-58.4895476662462,6042,Ayacucho,6042010,Ayacucho,60042,Ayacucho,AYACUCHO,6,Buenos Aires
+Localidad simple,-37.2286256057071,-58.7603890048806,6042,Ayacucho,6042020,La Constancia,60042,Ayacucho,LA CONSTANCIA,6,Buenos Aires
+Localidad simple,-36.8444984439739,-58.5071421689017,6042,Ayacucho,6042030,Solanet,60042,Ayacucho,SOLANET,6,Buenos Aires
+Localidad simple,-36.5637513540211,-58.5333344196536,6042,Ayacucho,6042040,Udaquiola,60042,Ayacucho,UDAQUIOLA,6,Buenos Aires
+Localidad simple,-36.5312544192466,-59.9200651844348,6049,Azul,6049010,Ariel,60049,Azul,ARIEL,6,Buenos Aires
+Localidad simple,-36.7795144970313,-59.8586331707414,6049,Azul,6049020,Azul,60049,Azul,AZUL,6,Buenos Aires
+Localidad simple,-36.3805626332947,-59.5030645507265,6049,Azul,6049030,Cacharí,60049,Azul,CACHARI,6,Buenos Aires
+Localidad simple,-37.3150113247344,-59.9853181679139,6049,Azul,6049040,Chillar,60049,Azul,CHILLAR,6,Buenos Aires
+Localidad simple,-37.2020524773603,-60.1652139181813,6049,Azul,6049050,16 de Julio,60049,Azul,16 DE JULIO,6,Buenos Aires
+Entidad,-38.7114037284555,-62.2569089501864,6056,Bahía Blanca,6056010,Bahía Blanca,60056,Bahía Blanca,BAHIA BLANCA,6,Buenos Aires
+Entidad,-38.7471079502848,-62.1891166907456,6056,Bahía Blanca,6056010,Bahía Blanca,60056,Bahía Blanca,GRÜNBEIN,6,Buenos Aires
+Entidad,-38.7794670416666,-62.262951248824,6056,Bahía Blanca,6056010,Bahía Blanca,60056,Bahía Blanca,INGENIERO WHITE,6,Buenos Aires
+Entidad,-38.6472605094596,-62.3200223419024,6056,Bahía Blanca,6056010,Bahía Blanca,60056,Bahía Blanca,VILLA BORDEAU,6,Buenos Aires
+Entidad,-38.7765069529222,-62.1851833537179,6056,Bahía Blanca,6056010,Bahía Blanca,60056,Bahía Blanca,VILLA ESPORA,6,Buenos Aires
+Localidad simple,-38.4838572081944,-61.8926015349487,6056,Bahía Blanca,6056020,Cabildo,60056,Bahía Blanca,CABILDO,6,Buenos Aires
+Localidad simple,-38.7136524854986,-62.3924221653991,6056,Bahía Blanca,6056030,General Daniel Cerri,60056,Bahía Blanca,GENERAL DANIEL CERRI,6,Buenos Aires
+Localidad simple,-37.8482779294345,-58.2551665841248,6063,Balcarce,6063010,Balcarce,60063,Balcarce,BALCARCE,6,Buenos Aires
+Localidad simple,-37.9412057603,-58.3225920150442,6063,Balcarce,6063020,Los Pinos,60063,Balcarce,LOS PINOS,6,Buenos Aires
+Localidad simple,-37.6254980210026,-58.7461862359423,6063,Balcarce,6063030,Napaleofú,60063,Balcarce,NAPALEOFU,6,Buenos Aires
+Localidad simple,-37.5426353712017,-58.3407185507274,6063,Balcarce,6063040,Ramos Otero,60063,Balcarce,RAMOS OTERO,6,Buenos Aires
+Localidad simple,-38.0122838564587,-58.355377761682,6063,Balcarce,6063050,San Agustín,60063,Balcarce,SAN AGUSTIN,6,Buenos Aires
